@@ -15,7 +15,7 @@ Returns shows the percentage change in a stock's price over an year.
 
 - For year 2017, DQ and SEDG stand out with higher returns.
 [Returns - 2017](https://github.com/pnimma01/Working_With_VBA/blob/3e1c7cb0d38d8b332b0631d345cf2f98c0da29de/Resources/Results_Sorted_2017)
-![Returns - 2017](https://github.com/pnimma01/Working_With_VBA/blob/3e1c7cb0d38d8b332b0631d345cf2f98c0da29de/Resources/Results_Sorted_2017)
+![Returns - 2017](https://github.com/pnimma01/Working_With_VBA/blob/1f145565b3742b434ce156a12dd325da28411aa8/Resources/Results_Sorted_2017.png)
 
 - For year 2018, ENPH and RUN stand out with higher returns.
 [Returns - 2018](https://github.com/pnimma01/Working_With_VBA/blob/3e1c7cb0d38d8b332b0631d345cf2f98c0da29de/Resources/Results_Sorted_2018)
